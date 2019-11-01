@@ -2,6 +2,9 @@
 
 ## 网站
 
+[Frontend Masters](https://frontendmasters.com/)
+(收费)前端各种教程， 包括前端的方方面面。 很多讲师都是 js 社区知名人士， 如 You don't know Js 作者， Vue.js 作者， Webpack 核心成员等等。
+
 [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 各种算法各种语言的实现，可以看出各种语言的差异性
 
