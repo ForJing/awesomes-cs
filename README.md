@@ -48,3 +48,11 @@ js, C#, C#游戏, Java
 
 [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ)
 Js 游戏开发， 超级马里奥 开发系列， 能学到很多东西
+
+## 造轮子
+
+[Ronen Amiel - Build Your Own Webpack](https://www.youtube.com/watch?v=Gc9-7PBqOC8)
+webpack 打包原理
+
+[Creating A Real-World CLI App With Node](https://timber.io/blog/creating-a-real-world-cli-app-with-node/)
+node.js 命令行工具
