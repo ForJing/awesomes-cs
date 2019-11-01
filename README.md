@@ -2,6 +2,9 @@
 
 ## 网站
 
+[Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+各种算法各种语言的实现，可以看出各种语言的差异性
+
 [LeetCode](https://leetcode-cn.com/)
 算法刷题网站
 
