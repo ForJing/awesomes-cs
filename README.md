@@ -1,5 +1,9 @@
 # 整理一些关于编程的比较酷的资源
 
+## 书籍
+
+[eloquent javascript](http://eloquentjavascript.net/)
+
 ## 网站
 
 [Frontend Masters](https://frontendmasters.com/)
